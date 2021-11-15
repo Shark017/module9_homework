@@ -1,0 +1,38 @@
+.wrapper {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: #C8CBD3;
+}
+.task {
+    margin: 0px auto;
+    width: 70vw;
+    border: 3px solid black;
+    margin-top: 20px;
+}
+#button01, #button02, #button03, #button04, #button05 {
+    color: white;
+    background-color: black;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+.j-result03 {
+    margin: 10px auto;
+}
+#heightValue {
+    margin-right: 6px;
+}
+
+#button04, #button05 {
+    margin-top: 10px;
+}
+
+h4 {
+    margin: 0px auto;
+}
+
+.j-result05 {
+    margin-top: 20px;
+}
